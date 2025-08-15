@@ -1,4 +1,4 @@
-# MyDHT - A Simple Arduino Library for DHT Sensors
+# DHT-Sensor_Library - A Simple Arduino Library for DHT Sensors
 
 ![Arduino Library Badge](https://img.shields.io/badge/Arduino%20Library-MyDHT-blue.svg)
 
