@@ -1,0 +1,6 @@
+## Syntax highlighting for the MyDHT library
+
+DHT             KEYWORD1
+read            KEYWORD2
+getHumidity     KEYWORD2
+getTemperature  KEYWORD2
