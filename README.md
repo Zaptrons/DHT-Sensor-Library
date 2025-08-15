@@ -1,6 +1,6 @@
-# DHT-Sensor_Library - A Simple Arduino Library for DHT Sensors
+# DHT-Sensor-Library   A Simple Arduino Library for DHT Sensors
 
-![Arduino Library Badge](https://img.shields.io/badge/Arduino%20Library-MyDHT-blue.svg)
+![Arduino Library Badge](https://img.shields.io/badge/Arduino%20Library-DHT-Sensor-Library-blue.svg)
 
 A lightweight and easy-to-use library for reading temperature and humidity from DHT11 and DHT22 sensors.
 
@@ -25,7 +25,7 @@ Alternatively, you can manually install the library by downloading the ZIP file 
 This example shows how to read and print temperature and humidity values to the Serial Monitor.
 
 ```cpp
-#include "MyDHT.h"
+#include "DHT.h"
 
 // Initialize the DHT sensor object on pin 2.
 // Note: This library supports only DHT11 for now.
