@@ -1,6 +1,7 @@
-# DHT-Sensor-Library   A Simple Arduino Library for DHT Sensors
+# DHT-Sensor-Library - A Simple Arduino Library for DHT Sensors
+.
 
-![Arduino Library Badge](https://img.shields.io/badge/Arduino%20Library-DHTSensorLibrary-blue.svg)
+![Arduino Library Badge](https://img.shields.io/badge/Arduino%20Library-DHT%20Sensor%20Library-blue.svg)
 
 A lightweight and easy-to-use library for reading temperature and humidity from DHT11 and DHT22 sensors.
 
@@ -24,8 +25,9 @@ If you are using PlatformIO, you can add this library to your project by adding 
 
 ```ini
 lib_deps =
-    https://github.com/Zaptrons/DHT-sensor-Library.git
+    Zaptrons/DHT-Sensor-Library
 
+```
 ## Usage
 
 ### Simple Example
